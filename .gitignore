@@ -16,3 +16,9 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Specific to this code
+logs/*.csv
+graphs/*.png
+data/*.dat
+data/*.plot
